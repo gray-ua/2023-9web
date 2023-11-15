@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+#th1{
+    width: 100px;
+}
+#th2{
+    width: 260px;
+}
+#box1{
+    height: 75px;
+    width: 100%;
+    background-color: rgb(241, 243, 151);
+
+    border: 0px;
+    margin: 0px;
+
+    position: sticky;
+    top: 0px;
+}
+#header_etimology{
+    padding-top: 75px;
+}
+#koleso0{
+    height: 50%;
+    width: 50%;
+}
+#box2{
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
+    background-color: tomato;
+}
+button{
+    margin: 0px;
+    position: relative;
+}
+#catalog{
+    background: none;
+    border: 0px;
+    margin: 0px;
+    height: 100%;
+
+}
+#catalog:hover{
+    background: rgb(43, 124, 237);
+}
